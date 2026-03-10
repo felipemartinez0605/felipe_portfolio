@@ -124,7 +124,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Universidad de Aconcagua",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/university_logo.png"),
       subHeader: "Bachelor of Science in Computer Software Engineering",
       duration: "March 2019 - June 2023",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -267,7 +267,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://www.hackerrank.com/certificates/e38d234ace45"
         }
       ]
     },
@@ -280,7 +280,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://www.hackerrank.com/certificates/8d83b11e8916"
         }
       ]
     },
@@ -293,7 +293,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://www.hackerrank.com/certificates/9a04b0f98e1a"
         }
       ]
     },
@@ -306,7 +306,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://www.hackerrank.com/certificates/dac3bb891897"
         }
       ]
     },
@@ -319,7 +319,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://cert.efset.org/sFmtnQ"
         }
       ]
     }
